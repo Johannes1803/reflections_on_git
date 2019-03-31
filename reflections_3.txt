@@ -6,3 +6,12 @@ Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
   It would push commits, that are not ready for release yet (e.g.
   one commit in a new feature that is not fully implemented yet).
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+  If the repository is mine, or I have permission to directly modify it,
+  I would clone it from github to my local machine.
+  If I want to use a public repo, but don`t have permission to directly
+  change it, forking would be the way to go.
+  While cloning and forking work on entire repos, different branches exist within
+  a repository.  

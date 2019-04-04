@@ -21,3 +21,9 @@ When would you use one instead of another?
     I know where the local and the remote branch diverged. This enables
     merging if the two repos get out of sync, e.g. if I collaborate in a
     team.
+
+How would you collaborate without using Git or GitHub?
+ What would be easier, and what would be harder?
+ In the beginning, it is easier to just use a cloud. But they
+ offer less possibilities for collaboration. E.g. Adding experimental
+ features on different branches, or using pull-requests would not be possible.

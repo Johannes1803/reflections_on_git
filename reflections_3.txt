@@ -14,4 +14,10 @@ When would you use one instead of another?
   If I want to use a public repo, but don`t have permission to directly
   change it, forking would be the way to go.
   While cloning and forking work on entire repos, different branches exist within
-  a repository.  
+  a repository.
+
+  What is the benefit of having a copy of the last known state
+  of the remote stored locally?
+    I know where the local and the remote branch diverged. This enables
+    merging if the two repos get out of sync, e.g. if I collaborate in a
+    team.
